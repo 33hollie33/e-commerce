@@ -40,8 +40,11 @@ A walkthrough video demonstrating the functionality of this e-commerce backend, 
 This project is licensed under the terms of APACHE2.0.  (https://opensource.org/licenses/Apache-2.0)
 
   ## Questions
-  For any Questions Contact me at: <br />
-  Github: https://github.com/33hollie33 <br />
+  For any Questions Contact me at: 
+  Github: https://github.com/33hollie33 
+
+  ## Heroku
+  
 
 
 
