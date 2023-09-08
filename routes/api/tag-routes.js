@@ -54,12 +54,13 @@ router.put('/:id', async (req, res) => {
       },
       {where: { id: req.params.id}
     });
-    if(!categoryData){
+    if(!tagData){
       res.status(404).json({message : "Oops, there are no results matching this id"});
       return
     }
     res.status(200).json(tagData);
   }catch (error) {
+    console.log(error)
     res.status(500).json(error);
 };
 });
