@@ -34,6 +34,7 @@ Node.js
 
 # Walkthrough Video
 A walkthrough video demonstrating the functionality of this e-commerce backend, as well as showcasing the fulfillment of all acceptance criteria, can be found at the following link:
+https://drive.google.com/file/d/1iKv438SfK2sdpljlQdnEbOyIeiZFjtkz/view 
 
   ## License 
   ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
